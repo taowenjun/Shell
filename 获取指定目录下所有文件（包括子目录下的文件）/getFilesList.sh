@@ -1,4 +1,4 @@
-et -x
+#!/bin/bash
 parent_path=/data0/logs
 i=0
 filelist=()
